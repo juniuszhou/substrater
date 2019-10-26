@@ -1,5 +1,5 @@
 [package]
-name = "forustm2"
+name = "substrater"
 version = "0.1.1"
 authors = ["Daogang Tang <daogangtang@live.com>"]
 edition = "2018"
